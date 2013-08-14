@@ -1,3 +1,10 @@
+
+######################################################################
+##### Open sourced by IBEX, an electronic product design company #####
+#####    based in South East England.  http://www.ibexuk.com     #####
+######################################################################
+
+
 The Dallas Maxim DS1307 is a I2C serial bus real time clock. It provides low power time keeping for embedded designs.
 
 This driver provides the following functions:
